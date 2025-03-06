@@ -1,31 +1,6 @@
 variable "ssh_key_name" {
   description = "The name of the SSH key pair to use for instances"
   type        = string
-  default     = "MIIEpAIBAAKCAQEAqE4wqKvFPxoNXHlc+kBqsyUzGk3d1ZPJex9sLdETnSMiJD1c
-D+WNan/c/lyaT+y4r6W2SBJp0qzAgA8G8frCzy1sNJf+qOVG9deLH2TVDDFuuYcL
-exfOhW7Yny65aSDKsxiknx9yfGTzdkkue4FE7N1xxG7Kf1dpsKX4V0BipDBE3Zb5
-cWB5/xB3nw3zlCoswhQlZc+cNpkjuZ7u0a3NPTWK9vujr4+VOz0+z7stNisVfI8f
-Rcuz9RUP44OfmSyxH39ijDa87v4SIYrg2TB9Nq6Oiu+nKER+t3bTI/JUZOWmyCvc
-9amQjLR+H+zQldZND++ZfOSav6BMUhEoPfWfOwIDAQABAoIBAQCiw3MVO4C2pKg1
-PP0o2rEVbK0+C/2zdYfM9Td2G5LfTUHQUDK/AN1BGESNDNsC3khBPX3Jt1z1q7FC
-ZsXtr/dDyoaxWiiiB5EXYQqfIrFSaF/PNgVpVj2YFvmQ/+u4+khs6TES3aOnHy2/
-v8gfEoWomANU11wnyE5i0i8XmiGK672x2hc3CCEMfbpqPNzm3Kz/t4XWhAJoRUBT
-BCbW/tKtrRen2/A7AFpVKjwLm4kuoRsgZZfDpLTVPibi8xUQSlGnkqWASSILA7oO
-U8vrnBkcv3hISgwYotTgZVR+Ax4zxy5JpyFiYtjJim7Rpy8+fhlHJpWmmkWvZRO6
-DAA32oghAoGBANNaCiKSPkrCa5wdp+lBN2asXDa1X/qeSIGl/WOqDXxHA7cc0oK9
-+8sRgOAQstLJKkPRiGCc9nUr3QeO8PYxoaQH9Ihr9F6ziI8yeTJ3aRbgFoXD7b8j
-g0Y0PonyscqR3w+u8ojCl7qcWw9ZiMU0ig/vgqHTmjsthFMFegvLjBjxAoGBAMvc
-MfUNTd0wt5ZqSxUKhfVeva6UOAg0m99vWuoyR2kw2DqUx/UcT0JoX5KlfY8waPyb
-UKUqzeJI36NpJQafnRtHLe4cufeeuR6C4Ddadr8MMZJsAtyvlasI7rZj/W802nti
-5KGEAIXkgnQLtyfBt0tiTjGQ/8a+xH4UPZfs9lrrAoGASc45l9UGF8lJFt1sU5JI
-rHwoP5qbB8PaghvbHsC1sN6Dt6BDCxEZKtLT9GsgZ2eEcOZs/4AQuN42c3tBPlga
-oFN+210Hm0KKv6bal/sHIcvjUZcYIRVftFZuOHIeECVchfeMDqIVpj8PtY6IqoUs
-aWA0eBqS03OTsAJLmm7cX6ECgYADy4GSkkDU0UdZoXjsV1nPC4h0a4XvgSs1qZkD
-qxPxPVuJG6PtSC2hitfcnwALXldV/H4v1PAoOjsPi7GIwgfmrhiIyjgcB/RiQQVz
-glebjtqNYz1aZlpe6Leo5YueOlmm2lxvNUndNDfJeT5bmxuSZ64U9iIMzRhTUIUl
-AuBDKQKBgQCOidtp1qzOlicBmQPKfZVQ+Qb/bTYPCeuOy2fCjLDMmkO0H3rfmGaY
-0AfKvtYAFD06ef6MovTxSqBUgUCmPKL3w935wrtmJy/Un30hqPBUmtKcD54D5GIG
-2I0ObyHmdK6c4+TgLR8VeghY94iZ5jB4U/otmvNrTWM8EVGR7Tu5SQ==
-"
+  default     = "VB-Keypair"
 }
 
